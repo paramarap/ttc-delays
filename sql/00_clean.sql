@@ -2,7 +2,10 @@
 INSTALL excel;
 LOAD excel;
 
+-- 1.1. Builds table
 CREATE OR REPLACE TABLE raw_all AS
+
+-- 1.2. Read the three sources and combine them into a single table
 SELECT CAST("Date" AS DATE) AS d, CAST("Time" AS VARCHAR) AS t, "Day" AS wd,
        "Station" AS st, "Code" AS cd, "Min Delay" AS md, "Min Gap" AS mg,
        "Bound" AS bd, "Line" AS ln, "Vehicle" AS v
@@ -16,9 +19,21 @@ SELECT CAST("Date" AS DATE), CAST("Time" AS VARCHAR), "Day", "Station", "Code",
        "Min Delay", "Min Gap", "Bound", "Line", "Vehicle"
 FROM read_csv_auto('raw/TTC_Subway_Delay_Data_since_2025.csv');
 
--- 2. Delay code lookup
+-- 2. Delay code lookup, correcting spelling mistakes in the data
 CREATE OR REPLACE TABLE codes AS
-SELECT upper(trim(CODE)) AS code, trim(DESCRIPTION) AS description
+SELECT
+    upper(trim(CODE)) AS code,
+    replace(
+        trim(
+            replace(
+                replace(
+                    replace(DESCRIPTION,
+                            chr(226) || chr(128) || chr(147), '-'),
+                    chr(226) || chr(128) || chr(156), '"'),
+                chr(226) || chr(128) || chr(157), '"')
+        ),
+        'ASSUALT', 'ASSAULT'
+    ) AS description
 FROM read_csv_auto('raw/Code_Descriptions.csv');
 
 -- 3. Clean: dedupe, fix Line and Station, join codes, add helper columns
@@ -31,7 +46,6 @@ cleaned AS (
         d AS delay_date,
         substr(t, 1, 5) AS delay_time,
         trim(wd) AS weekday,
-        -- cut everything after "STATION", then strip trailing line tags (BD, YU...)
         trim(regexp_replace(
                regexp_replace(upper(trim(coalesce(st, ''))),
                               '\s+STATI?O?N?\b.*$|\s+STAT?I?O?$', ''),
@@ -75,5 +89,5 @@ LEFT JOIN codes k ON c.code = k.code
 LEFT JOIN (SELECT station_raw, COUNT(*) AS cnt FROM cleaned GROUP BY station_raw) n
        ON c.station_raw = n.station_raw;
 
--- 4. Export the clean table for the dashboard
+-- 4. Export the clean table
 COPY delays TO 'clean/ttc_subway_clean.csv' (HEADER, DELIMITER ',');
