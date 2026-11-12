@@ -1,0 +1,73 @@
+code,description
+PUTO,T&S Other
+ERAC,Air Conditioning
+ERBO,Body
+ERCD,Consequential Delay (2nd Delay Same Fault)
+ERCO,Couplers
+ERDB,Disc Brakes
+ERDO,Door Problems - Faulty Equipment
+ERHV,High Voltage
+ERLT,Lighting System
+ERLV,Low Voltage
+ERME,RC&S Maintenance Error - (Human)
+ERNEA,No Equipment Available
+ERNT,Equipment - No Trouble Found
+ERO,RC&S Other
+ERPR,Propulsion System
+ERRA,Radio
+ERTB,Track Brakes
+ERTC,Train Control - VOBC
+ERTL,Trainline System
+ERTR,Trucks
+ERVE,Vehicle
+ERWA,Warning Alarm Systems
+ERWS,Wind Shield
+MRCL,Divisional Clerk Related
+MRD,Door Problems - Passenger Related
+MRDD,Door Problems - Debris Related
+MREC,Misc. Engineering & Construction Related Problems
+MRESA,No Operator Immediately Available
+MRFS,Fire/Smoke Plan B - Source External to TTC
+MRIE,Injured Employee
+MRLD,Labour Dispute - Subway
+MRNOA,No Operator Immediately Available - Not E.S.A. Related
+MRO,Miscellaneous Other
+MRPAA,Passenger Assistance Alarm Activated - No Trouble Found
+MRPLA,Fire/Smoke Plan A
+MRPLB,Fire/Smoke Plan B
+MRPLC,Fire/Smoke Plan C
+MRPR1,Priority One - Train in Contact With Person
+MRSAN,Unsanitary Vehicle
+MRSTM,Scheduled Track Maintenance
+MRTO,Timeout
+MRUI,Injured or ill Customer (On Train) - Transported
+MRUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+MRWEA,Weather Reports / Related Delays
+PREL,Escalator/Elevator Incident
+PRO,Other
+PRS,VCC/RCIU/CCR
+PRSA,Axle Counter Related
+PRSL,Loop Related Failures
+PRSO,Signals Other
+PRSP,Signals Power Supply Related
+PRST,Station Stairway Incident
+PRSW,Switch Related
+PRTST,Signals - Train Stops
+PRW,Rail Defect/Fastenings/Power Rail
+SRAE,Assault / Employee Involved
+SRAP,Assault / Patron Involved
+SRBT,Bomb Threat
+SRCOL,Collector Booth Alarm Activated
+SRDP,Disorderly Patron
+SREAS,Emergency Alarm Station Activation
+SRO,Passenger Other
+SRSA,Sexual Assault
+SRSP,Suspicious Package
+SRUT,Unauthorized at Track Level
+TRDOE,Doors Open in Error
+TRNIP,Operator Not In Position
+TRNOA,No Operator Immediately Available
+TRO,Transportation Department - Other
+TRSET,Train Controls Improperly Shut Down
+TRST,Storm Trains
+TRTC,Transit Control Related Problems

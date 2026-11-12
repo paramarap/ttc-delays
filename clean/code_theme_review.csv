@@ -1,0 +1,198 @@
+code,code_description,theme,overridden,incidents,total_min
+SUDP,DISORDERLY PATRON,Customers and security,false,9851,25412.0
+SUUT,UNAUTHORIZED AT TRACK LEVEL,Customers and security,false,1961,15349.0
+SUO,SECURITY OTHER,Customers and security,false,6556,14414.0
+MUIR,INJURED/ILL CUSTOMER ON TRAIN - MEDICAL AID REFUSED,Medical and injuries,false,2178,11939.0
+PUOPO,OPTO (COMMUNICATIONS) TRAIN DOOR MONITORING,One-person train operation (OPTO),true,3702,11916.0
+MUI,INJURED/ILL CUSTOMER ON TRAIN - TRANSPORTED,Medical and injuries,false,1203,11360.0
+MUPAA,PAA - NO TROUBLE FOUND,Customers and security,false,4525,9658.0
+MUPR1,PRIORITY ONE - TRAIN IN CONTACT WITH PERSON,Customers and security,false,99,7401.0
+MUPLB,FIRE/SMOKE PLAN B - SOURCE TTC (TRACK LEVEL),"Fire, weather and external",false,177,5779.0
+SUAP,ASSAULT / PATRON INVOLVED,Customers and security,false,1930,5149.0
+MUSAN,UNSANITARY VEHICLE,Customers and security,false,1176,5122.0
+TUO,TRANSPORTATION OTHER,Operators and crew,false,1072,4658.0
+PUTWZ,WORK ZONES PROBLEMS - TRACK,"Track, signals and infrastructure",false,459,4321.0
+MUO,MISCELLANEOUS OTHER,Other,false,3042,4253.0
+SUEAS,EAS ACTIVATED - NO TROUBLE FOUND,Customers and security,false,312,3759.0
+EUDO,DOOR PROBLEMS RE:FAULTY EQUIPMENT,Vehicles,false,603,3306.0
+MUWEA,WEATHER REPORTS / RELATED PROBLEMS,"Fire, weather and external",false,268,3201.0
+MUDD,DOOR PROBLEMS - DEBRIS RELATED,Customers and security,false,630,3195.0
+PUSSW,TRACK SWITCH FAILURE - S/E/C RELATED PROBLEM,"Track, signals and infrastructure",false,149,2992.0
+MUATC,ATC PROJECT,"Track, signals and infrastructure",false,610,2907.0
+PUTR,RAIL RELATED PROBLEM,"Track, signals and infrastructure",false,296,2303.0
+PUTO,T&S OTHER,"Track, signals and infrastructure",false,273,2076.0
+TUMVS,OPERATOR VIOLATED SIGNAL,Operators and crew,false,614,2040.0
+MUTO,MISCELLANEOUS TRANSPORTATION OTHER (EMPLOYEE NON-CHARGEABLE),Operators and crew,false,492,2022.0
+EUNT,EQUIPMENT - NO TROUBLE FOUND,Vehicles,false,374,1882.0
+SUPOL,HELD BY POLICE - NON TTC RELATED,Customers and security,false,213,1630.0
+SUG,GRAFFITI / SCRATCHITI,Customers and security,false,810,1620.0
+EUVE,WORK VEHICLE,Vehicles,false,131,1444.0
+EUCD,RC&S CONSEQUENTIAL DELAY (SECOND DELAY SAME FAULT - NO INTERVENTION),Vehicles,false,145,1438.0
+TUCC,TRANSIT CONTROL RELATED - TOWER CONTROLLER ERROR,Operators and crew,false,218,1398.0
+MUD,DOOR PROBLEMS - PASSENGER RELATED,Customers and security,false,332,1376.0
+TUNIP,OPERATOR NOT IN POSTION,Operators and crew,false,314,1362.0
+PUSTS,SIGNALS - TRAIN STOPS,"Track, signals and infrastructure",false,257,1211.0
+EUBK,BRAKES,Vehicles,false,182,1136.0
+SUAE,ASSAULT / EMPLOYEE INVOLVED,Customers and security,false,664,1092.0
+PUSAC,SIGNALS AXLE COUNTER BLOCK FAILURE,"Track, signals and infrastructure",false,257,1092.0
+PUSI,SIGNAL OR RELATED COMPONENTS FAILURE,"Track, signals and infrastructure",false,195,1080.0
+PUTDN,DEBRIS AT TRACK LEVEL - NON-CONTROLLABLE,"Track, signals and infrastructure",false,108,1072.0
+PUTSM,TRACK SWITCH FAILURE - T&S RELATED PROBLEM,"Track, signals and infrastructure",false,55,960.0
+TUS,UNABLE TO MAINTAIN SCHEDULE,Operators and crew,false,166,946.0
+EUO,RC&S OTHER,Vehicles,false,147,902.0
+TUNOA,NO OPERATOR AVAILABLE,Operators and crew,false,238,888.0
+ERTC,TRAIN CONTROL - VOBC,Vehicles,false,79,817.0
+PUTTP,TRACTION POWER RAIL RELATED PROBLEMS,"Track, signals and infrastructure",false,8,816.0
+PUSRA,SUBWAY RADIO SYSTEM PROBLEMS,"Track, signals and infrastructure",false,154,770.0
+MUSC,SI SPEED CONTROL,Other,false,1775,747.0
+SUBT,BOMB THREAT,Customers and security,false,23,710.0
+TUOS,OPERATOR OVERSHOT PLATFORM,Operators and crew,false,204,688.0
+TUSC,OPERATOR OVERSPEED,Operators and crew,false,1360,616.0
+PUTS,STRUCTURE RELATED PROBLEM,"Track, signals and infrastructure",false,19,611.0
+PUEO,ELECTRICAL - OTHER,"Track, signals and infrastructure",false,68,605.0
+EUSC,SPEED CONTROL EQUIPMENT,Vehicles,false,1012,581.0
+MUIS,INJURED/ILL CUSTOMER IN STATION - TRANSPORTED,Medical and injuries,false,7720,575.0
+EUPI,T-1 PROPULSION SYSTEM,Vehicles,false,106,570.0
+EUME,RC&S MAINTENANCE ERROR (HUMAN ERROR - NO EQUIP.FAULT),Vehicles,false,95,558.0
+EUBO,BODY,Vehicles,false,109,517.0
+TUATC,ATC OPERATOR RELATED,Operators and crew,false,145,516.0
+TUSUP,SUPERVISORY ERROR,Operators and crew,false,104,511.0
+PUSTC,SIGNALS - TRACK CIRCUIT PROBLEMS,"Track, signals and infrastructure",false,136,453.0
+PRSL,LOOP RELATED FAILURES,"Track, signals and infrastructure",false,4,448.0
+PUSO,SIGNALS - OTHER,"Track, signals and infrastructure",false,94,431.0
+ERCO,COUPLERS,Vehicles,false,2,430.0
+MUIRS,INJURED/ILL CUSTOMER IN STATION - MEDICAL AID REFUSED,Medical and injuries,false,3947,421.0
+SUROB,ROBBERY,Customers and security,false,210,419.0
+PUTIJ,INSULATED JOINT RELATED PROBLEM,"Track, signals and infrastructure",false,65,415.0
+EUYRD,YARD/CARHOUSE RELATED PROBLEMS,Vehicles,false,102,411.0
+MRTO,TIMEOUT,Operators and crew,false,54,392.0
+PUSCR,SUBWAY CAR RADIO FAULT,"Track, signals and infrastructure",false,80,392.0
+PUMO,PLANT MAINTENANCE - OTHER,"Track, signals and infrastructure",false,454,364.0
+EUAC,AIR CONDITIONING,Vehicles,false,55,358.0
+PUSTP,TRACTION POWER OR RELATED COMPONENTS FAILURE,"Track, signals and infrastructure",false,12,358.0
+PUTD,DEBRIS AT TRACK LEVEL - CONTROLLABLE,"Track, signals and infrastructure",false,45,358.0
+PRS,VCC/RCIU/CCR,"Track, signals and infrastructure",false,6,349.0
+PUSIS,SIGNALS TRACK WEATHER RELATED ISSUES,"Track, signals and infrastructure",false,37,319.0
+EUTL,TRAINLINE SYSTEM,Vehicles,false,27,312.0
+MUPLA,FIRE/SMOKE PLAN A,"Fire, weather and external",false,14,289.0
+EUATC,ATC RC&S EQUIPMENT,Vehicles,false,82,281.0
+PUCSC,SIGNAL CONTROL,"Track, signals and infrastructure",false,33,276.0
+MUCL,DIVISIONAL CLERK RELATED,Operators and crew,false,67,274.0
+PUTIS,ICE/SNOW RELATED PROBLEM,"Track, signals and infrastructure",false,44,271.0
+ERBO,BODY,Vehicles,false,1,268.0
+TUDOE,DOORS OPEN IN ERROR,Operators and crew,false,9,268.0
+SUSA,ASSAULT / SEXUAL,Customers and security,false,218,263.0
+SRDP,DISORDERLY PATRON,Customers and security,false,29,252.0
+PUSZC,SIGNALS ZONE CONTROLLER FAILURE,"Track, signals and infrastructure",false,11,252.0
+PUATC,ATC SIGNALS OTHER,"Track, signals and infrastructure",false,73,239.0
+SRO,PASSENGER OTHER,Customers and security,false,35,235.0
+MUTD,TRAINING DEPT. RELATED DELAYS,Operators and crew,false,71,224.0
+MUWR,WORK REFUSAL,Operators and crew,false,104,209.0
+PUTOE,"T&S OPERATOR RELATED PROBLEM (VIOLATIONS, OVERSHOOTS, ETC.)","Track, signals and infrastructure",false,89,197.0
+ERCD,CONSEQUENTIAL DELAY (2ND DELAY SAME FAULT),Vehicles,false,22,191.0
+MUNOA,NO OPERATOR AVAILABLE - NON ESA RELATED,Operators and crew,false,50,190.0
+PUSNT,SIGNAL PROBLEM - NO TROUBLE FOUND,"Track, signals and infrastructure",false,89,187.0
+TUKEY,TWO DRUM SWITCH KEYS IN TRAIN,Operators and crew,false,52,181.0
+EUVA,WARNING/ALARM SYSTEM/PASSENGER SECURITY SYSTEM,Vehicles,false,41,176.0
+PUSWZ,WORK ZONE PROBLEMS - SIGNALS,"Track, signals and infrastructure",false,42,175.0
+MUEC,ENGINEEERING & CONSTRUCTION RELATED,"Track, signals and infrastructure",false,4,173.0
+MRO,MISCELLANEOUS OTHER,Other,false,248,168.0
+PUCSS,CENTRAL OFFICE SIGNALLING SYSTEM (CSS),"Track, signals and infrastructure",false,34,164.0
+EUOE,"RC&S OPERATOR ERROR (SIGNAL VIOLATION, PLATFORM OVERSHOOT, ETC)",Vehicles,false,64,160.0
+EUCA,COMPRESSED AIR,Vehicles,false,29,160.0
+MUIE,INJURED EMPLOYEES,Medical and injuries,false,507,158.0
+ERDO,DOOR PROBLEMS - FAULTY EQUIPMENT,Vehicles,false,24,152.0
+EUTR,TRUCKS,Vehicles,false,26,147.0
+TUOPO,OPTO OPERATOR RELATED,One-person train operation (OPTO),true,33,142.0
+MUPF,EXTERNAL POWER FAILURE,"Fire, weather and external",false,48,137.0
+EUNEA,NO EQUIPMENT AVAILABLE,Vehicles,false,27,129.0
+MUFS,FIRE/SMOKE PLAN B - SOURCE EXTERNAL TO TTC,"Fire, weather and external",false,21,129.0
+MRWEA,WEATHER REPORTS / RELATED DELAYS,"Fire, weather and external",false,12,116.0
+EUTRD,TORONTO ROCKET CAB DOORS,Vehicles,false,19,115.0
+EUCO,COUPLERS,Vehicles,false,17,115.0
+ERDB,DISC BRAKES,Vehicles,false,4,111.0
+TUSET,CONTROLS IMPROPERLY BLOWN DOWN,Operators and crew,false,26,96.0
+PUEWZ,ELECTRICAL - WORK ZONE PROBLEMS,"Track, signals and infrastructure",false,7,93.0
+TRO,TRANSPORTATION DEPARTMENT - OTHER,Operators and crew,false,16,93.0
+EUECD,ECD/LINE MECHANIC RELATED,Vehicles,false,15,90.0
+PUSCA,SCADA RELATED PROBLEMS,"Track, signals and infrastructure",false,11,88.0
+MRUI,INJURED OR ILL CUSTOMER (ON TRAIN) - TRANSPORTED,Medical and injuries,false,22,82.0
+TUML,MAINLINE STORAGE,Operators and crew,false,23,79.0
+ERPR,PROPULSION SYSTEM,Vehicles,false,13,77.0
+EUOPO,OPTO (RC&S) NON-TRAIN DOOR MONITORING,One-person train operation (OPTO),true,24,76.0
+EUAL,ALTERNATING CURRENT,Vehicles,false,19,74.0
+SRAP,ASSAULT / PATRON INVOLVED,Customers and security,false,9,72.0
+PRSA,AXLE COUNTER RELATED,"Track, signals and infrastructure",false,3,70.0
+PUTCD,T&S CONTRACTOR PROBLEMS,"Track, signals and infrastructure",false,5,68.0
+SUSP,SUSPICIOUS PACKAGE,Customers and security,false,16,68.0
+PUTTC,TRACK CIRCUIT PROBLEMS RE:DEFECTIVE BOLTS/BONDING,"Track, signals and infrastructure",false,20,66.0
+EULV,LOW VOLTAGE,Vehicles,false,12,65.0
+MUPLC,FIRE SMOKE PLAN C,"Fire, weather and external",false,66,65.0
+PUTSC,SIGNALS-CONTROL PROBLEM-TRACK,"Track, signals and infrastructure",false,19,57.0
+MRD,DOOR PROBLEMS - PASSENGER RELATED,Customers and security,false,6,52.0
+ERWA,WARNING ALARM SYSTEMS,Vehicles,false,4,49.0
+ERO,RC&S OTHER,Vehicles,false,2,45.0
+ERTB,TRACK BRAKES,Vehicles,false,3,40.0
+EULT,LIGHTING SYSTEMS,Vehicles,false,10,40.0
+TRNOA,NO OPERATOR IMMEDIATELY AVAILABLE,Operators and crew,false,7,37.0
+PUMEL,ANY ESCL. OR ELEV. INCIDENT - TRANSPORTED OR MEDICAL AID DECLINED,Medical and injuries,false,2338,35.0
+EUTM,TRACTION MOTORS,Vehicles,false,8,35.0
+MRPLB,FIRE/SMOKE PLAN B,"Fire, weather and external",false,2,34.0
+PUEME,ELECTRICAL - MAINTENANCE ERROR,"Track, signals and infrastructure",false,8,28.0
+ERNT,EQUIPMENT - NO TROUBLE FOUND,Vehicles,false,5,26.0
+ERME,RC&S MAINTENANCE ERROR - (HUMAN),Vehicles,false,4,26.0
+SRUT,UNAUTHORIZED AT TRACK LEVEL,Customers and security,false,6,24.0
+PRSO,SIGNALS OTHER,"Track, signals and infrastructure",false,3,23.0
+PRW,RAIL DEFECT/FASTENINGS/POWER RAIL,"Track, signals and infrastructure",false,1,22.0
+ERAC,AIR CONDITIONING,Vehicles,false,3,16.0
+TRTC,TRANSIT CONTROL RELATED PROBLEMS,Operators and crew,false,3,16.0
+TFPD,UNMAPPED,Unmapped code,false,1,14.0
+TUUR,UNAUTHORIZED TRAIN REVERSAL BY OPERATOR,Operators and crew,false,3,13.0
+TRNIP,OPERATOR NOT IN POSITION,Operators and crew,false,3,13.0
+MUESA,NO OPERATOR/CREW AVAILABLE - E.S.A. RELATED,Operators and crew,false,4,12.0
+ERLV,LOW VOLTAGE,Vehicles,false,2,11.0
+MRSAN,UNSANITARY VEHICLE,Customers and security,false,2,10.0
+ERTR,TRUCKS,Vehicles,false,2,10.0
+TRSET,TRAIN CONTROLS IMPROPERLY SHUT DOWN,Operators and crew,false,1,8.0
+PUSIO,SMART IO FAILURE,"Track, signals and infrastructure",false,6,7.0
+MRDD,DOOR PROBLEMS - DEBRIS RELATED,Customers and security,false,2,7.0
+MRIE,INJURED EMPLOYEE,Medical and injuries,false,2,7.0
+MRPAA,PASSENGER ASSISTANCE ALARM ACTIVATED - NO TROUBLE FOUND,Customers and security,false,26,6.0
+ERRA,RADIO,Vehicles,false,1,6.0
+PRSW,SWITCH RELATED,"Track, signals and infrastructure",false,1,6.0
+ERNEA,NO EQUIPMENT AVAILABLE,Vehicles,false,1,5.0
+MUCP,CLOSURES - PLANNED,Other,false,238,4.0
+PRO,OTHER,"Track, signals and infrastructure",false,1,4.0
+TUST,STORM TRAINS,Operators and crew,false,40,4.0
+MRPLC,FIRE/SMOKE PLAN C,"Fire, weather and external",false,2,4.0
+PUMST,ANY STAIRWAY INCIDENT - TRANSPORTED OR MEDICAL AID DECLINED,Medical and injuries,false,921,4.0
+MRFS,FIRE/SMOKE PLAN B - SOURCE EXTERNAL TO TTC,"Fire, weather and external",false,1,3.0
+ERTL,TRAINLINE SYSTEM,Vehicles,false,1,3.0
+MRUIR,INJURED OR ILL CUSTOMER (ON TRAIN) - MEDICAL AID REFUSED,Medical and injuries,false,7,3.0
+EUHV,HIGH VOLTAGE,Vehicles,false,1,3.0
+SRAE,ASSAULT / EMPLOYEE INVOLVED,Customers and security,false,2,0.0
+XXXXX,UNMAPPED,Unmapped code,false,10,0.0
+PRST,STATION STAIRWAY INCIDENT,Medical and injuries,false,2,0.0
+TUNCA,NO COLLECTOR AVAILABLE,Operators and crew,false,1173,0.0
+PUTNT,T&S RELATED PROBLEM - NO TROUBLE FOUND,"Track, signals and infrastructure",false,1,0.0
+TRST,STORM TRAINS,Operators and crew,false,8,0.0
+PUDCS,DATA COMMUNICATIONS SYSTEM FAILURE,"Track, signals and infrastructure",false,1,0.0
+PUCBI,CENTRAL LOGIC CONTROLLER FAILURE,"Track, signals and infrastructure",false,1,0.0
+MUGD,MISCELLANEOUS GENERAL SUBWAY LINE DELAYS -,Other,false,89,0.0
+TRNCA,UNMAPPED,Unmapped code,false,9,0.0
+MUODC,OVERHEAD DOOR CONTACTED,Other,false,1,0.0
+SUCOL,COLLECTOR BOOTH HOLD-UP ALARM ACTIVATED,Customers and security,false,1,0.0
+MRCL,DIVISIONAL CLERK RELATED,Operators and crew,false,1,0.0
+PREL,ESCALATOR/ELEVATOR INCIDENT,"Track, signals and infrastructure",false,19,0.0
+MUNCA,NO COLLECTOR AVAILABLE - NON ESA RELATED,Operators and crew,false,2159,0.0
+MUFL,UNMAPPED,Unmapped code,false,0,
+PUSLC,SIGNALS LINE CONTROLLER FAILURE,"Track, signals and infrastructure",false,0,
+MUINF,UNMAPPED,Unmapped code,false,0,
+SUL,UNMAPPED,Unmapped code,false,0,
+MUFM,"""FORCE MAJEURE"" - DELAY OVER 90 MIN. RE: WEATHER OR MAJOR EVENT",Other,false,0,
+MUBIO,UNMAPPED,Unmapped code,false,0,
+MUSE,UNMAPPED,Unmapped code,false,0,
+PUSEA,EMERGENCY ALARM STATIONS,"Track, signals and infrastructure",false,0,
+TUAV,UNMAPPED,Unmapped code,false,0,
+STAE,UNMAPPED,Unmapped code,false,0,
+PUFA,UNMAPPED,Unmapped code,false,0,

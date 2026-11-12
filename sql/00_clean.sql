@@ -21,20 +21,22 @@ FROM read_csv_auto('raw/TTC_Subway_Delay_Data_since_2025.csv');
 
 -- 2. Delay code lookup, correcting spelling mistakes in the data
 CREATE OR REPLACE TABLE codes AS
-SELECT
-    upper(trim(CODE)) AS code,
-    replace(
-        trim(
-            replace(
-                replace(
-                    replace(DESCRIPTION,
-                            chr(226) || chr(128) || chr(147), '-'),
-                    chr(226) || chr(128) || chr(156), '"'),
-                chr(226) || chr(128) || chr(157), '"')
-        ),
-        'ASSUALT', 'ASSAULT'
-    ) AS description
-FROM read_csv_auto('raw/Code_Descriptions.csv');
+WITH main AS (
+    SELECT upper(trim(CODE)) AS code,
+           replace(trim(replace(replace(replace(DESCRIPTION,
+                   chr(226) || chr(128) || chr(147), '-'),
+                   chr(226) || chr(128) || chr(156), '"'),
+                   chr(226) || chr(128) || chr(157), '"')),
+                   'ASSUALT', 'ASSAULT') AS description
+    FROM read_csv_auto('raw/Code_Descriptions.csv')
+),
+extra AS (
+    SELECT upper(trim(code)) AS code, upper(trim(description)) AS description
+    FROM read_csv_auto('raw/extra_codes.csv')
+)
+SELECT * FROM main
+UNION ALL
+SELECT * FROM extra WHERE code NOT IN (SELECT code FROM main);
 
 -- 3. Clean: dedupe, fix Line and Station, join codes, add helper columns
 CREATE OR REPLACE TABLE delays AS
