@@ -1,0 +1,165 @@
+code_description,theme,incidents,total_delay_min,median_delay_min
+DISORDERLY PATRON,Customers and security,9880,25664.0,0.0
+UNAUTHORIZED AT TRACK LEVEL,Customers and security,1967,15373.0,4.0
+SECURITY OTHER,Customers and security,6556,14414.0,0.0
+INJURED/ILL CUSTOMER ON TRAIN - MEDICAL AID REFUSED,Medical and injuries,2178,11939.0,4.0
+OPTO (COMMUNICATIONS) TRAIN DOOR MONITORING,One-person train operation (OPTO),3702,11916.0,3.0
+INJURED/ILL CUSTOMER ON TRAIN - TRANSPORTED,Medical and injuries,1203,11360.0,7.0
+PAA - NO TROUBLE FOUND,Customers and security,4525,9658.0,3.0
+PRIORITY ONE - TRAIN IN CONTACT WITH PERSON,Customers and security,99,7401.0,70.0
+FIRE/SMOKE PLAN B - SOURCE TTC (TRACK LEVEL),"Fire, weather and external",177,5779.0,20.0
+ASSAULT / PATRON INVOLVED,Customers and security,1939,5221.0,0.0
+UNSANITARY VEHICLE,Customers and security,1178,5132.0,4.0
+TRANSPORTATION OTHER,Operators and crew,1072,4658.0,4.0
+MISCELLANEOUS OTHER,Other,3290,4421.0,0.0
+WORK ZONES PROBLEMS - TRACK,"Track, signals and infrastructure",459,4321.0,6.0
+EAS ACTIVATED - NO TROUBLE FOUND,Customers and security,312,3759.0,10.0
+DOOR PROBLEMS RE:FAULTY EQUIPMENT,Vehicles,603,3306.0,5.0
+DOOR PROBLEMS - DEBRIS RELATED,Customers and security,632,3202.0,4.0
+WEATHER REPORTS / RELATED PROBLEMS,"Fire, weather and external",268,3201.0,3.0
+TRACK SWITCH FAILURE - S/E/C RELATED PROBLEM,"Track, signals and infrastructure",149,2992.0,5.0
+ATC PROJECT,"Track, signals and infrastructure",610,2907.0,4.0
+RAIL RELATED PROBLEM,"Track, signals and infrastructure",296,2303.0,6.0
+T&S OTHER,"Track, signals and infrastructure",273,2076.0,5.0
+OPERATOR VIOLATED SIGNAL,Operators and crew,614,2040.0,3.0
+MISCELLANEOUS TRANSPORTATION OTHER (EMPLOYEE NON-CHARGEABLE),Operators and crew,492,2022.0,4.0
+EQUIPMENT - NO TROUBLE FOUND,Vehicles,379,1908.0,4.0
+HELD BY POLICE - NON TTC RELATED,Customers and security,213,1630.0,4.0
+GRAFFITI / SCRATCHITI,Customers and security,810,1620.0,0.0
+WORK VEHICLE,Vehicles,131,1444.0,5.0
+RC&S CONSEQUENTIAL DELAY (SECOND DELAY SAME FAULT - NO INTERVENTION),Vehicles,145,1438.0,4.0
+DOOR PROBLEMS - PASSENGER RELATED,Customers and security,338,1428.0,4.0
+TRANSIT CONTROL RELATED - TOWER CONTROLLER ERROR,Operators and crew,218,1398.0,4.5
+OPERATOR NOT IN POSTION,Operators and crew,314,1362.0,4.0
+SIGNALS - TRAIN STOPS,"Track, signals and infrastructure",257,1211.0,0.0
+BRAKES,Vehicles,182,1136.0,4.0
+ASSAULT / EMPLOYEE INVOLVED,Customers and security,666,1092.0,0.0
+SIGNALS AXLE COUNTER BLOCK FAILURE,"Track, signals and infrastructure",257,1092.0,4.0
+SIGNAL OR RELATED COMPONENTS FAILURE,"Track, signals and infrastructure",195,1080.0,0.0
+DEBRIS AT TRACK LEVEL - NON-CONTROLLABLE,"Track, signals and infrastructure",108,1072.0,5.0
+TRACK SWITCH FAILURE - T&S RELATED PROBLEM,"Track, signals and infrastructure",55,960.0,3.0
+RC&S OTHER,Vehicles,149,947.0,5.0
+UNABLE TO MAINTAIN SCHEDULE,Operators and crew,166,946.0,5.0
+NO OPERATOR AVAILABLE,Operators and crew,238,888.0,4.0
+TRAIN CONTROL - VOBC,Vehicles,79,817.0,7.0
+TRACTION POWER RAIL RELATED PROBLEMS,"Track, signals and infrastructure",8,816.0,56.5
+BODY,Vehicles,110,785.0,4.0
+SUBWAY RADIO SYSTEM PROBLEMS,"Track, signals and infrastructure",154,770.0,4.0
+SI SPEED CONTROL,Other,1775,747.0,0.0
+BOMB THREAT,Customers and security,23,710.0,25.0
+OPERATOR OVERSHOT PLATFORM,Operators and crew,204,688.0,3.0
+OPERATOR OVERSPEED,Operators and crew,1360,616.0,0.0
+STRUCTURE RELATED PROBLEM,"Track, signals and infrastructure",19,611.0,3.0
+ELECTRICAL - OTHER,"Track, signals and infrastructure",68,605.0,3.0
+SPEED CONTROL EQUIPMENT,Vehicles,1012,581.0,0.0
+INJURED/ILL CUSTOMER IN STATION - TRANSPORTED,Medical and injuries,7720,575.0,0.0
+T-1 PROPULSION SYSTEM,Vehicles,106,570.0,4.0
+RC&S MAINTENANCE ERROR (HUMAN ERROR - NO EQUIP.FAULT),Vehicles,95,558.0,5.0
+COUPLERS,Vehicles,19,545.0,7.0
+ATC OPERATOR RELATED,Operators and crew,145,516.0,3.0
+SUPERVISORY ERROR,Operators and crew,104,511.0,4.0
+SIGNALS - TRACK CIRCUIT PROBLEMS,"Track, signals and infrastructure",136,453.0,3.0
+LOOP RELATED FAILURES,"Track, signals and infrastructure",4,448.0,12.5
+SIGNALS - OTHER,"Track, signals and infrastructure",94,431.0,3.0
+INJURED/ILL CUSTOMER IN STATION - MEDICAL AID REFUSED,Medical and injuries,3947,421.0,0.0
+ROBBERY,Customers and security,210,419.0,0.0
+INSULATED JOINT RELATED PROBLEM,"Track, signals and infrastructure",65,415.0,3.0
+YARD/CARHOUSE RELATED PROBLEMS,Vehicles,102,411.0,4.0
+SUBWAY CAR RADIO FAULT,"Track, signals and infrastructure",80,392.0,5.0
+TIMEOUT,Operators and crew,54,392.0,7.0
+AIR CONDITIONING,Vehicles,58,374.0,4.0
+PLANT MAINTENANCE - OTHER,"Track, signals and infrastructure",454,364.0,0.0
+DEBRIS AT TRACK LEVEL - CONTROLLABLE,"Track, signals and infrastructure",45,358.0,4.0
+TRACTION POWER OR RELATED COMPONENTS FAILURE,"Track, signals and infrastructure",12,358.0,10.0
+VCC/RCIU/CCR,"Track, signals and infrastructure",6,349.0,4.0
+SIGNALS TRACK WEATHER RELATED ISSUES,"Track, signals and infrastructure",37,319.0,4.0
+TRAINLINE SYSTEM,Vehicles,28,315.0,4.5
+FIRE/SMOKE PLAN A,"Fire, weather and external",14,289.0,11.0
+ATC RC&S EQUIPMENT,Vehicles,82,281.0,3.0
+SIGNAL CONTROL,"Track, signals and infrastructure",33,276.0,3.0
+DIVISIONAL CLERK RELATED,Operators and crew,68,274.0,4.0
+ICE/SNOW RELATED PROBLEM,"Track, signals and infrastructure",44,271.0,5.0
+DOORS OPEN IN ERROR,Operators and crew,9,268.0,33.0
+ASSAULT / SEXUAL,Customers and security,218,263.0,0.0
+SIGNALS ZONE CONTROLLER FAILURE,"Track, signals and infrastructure",11,252.0,19.0
+ATC SIGNALS OTHER,"Track, signals and infrastructure",73,239.0,3.0
+PASSENGER OTHER,Customers and security,35,235.0,0.0
+TRAINING DEPT. RELATED DELAYS,Operators and crew,71,224.0,3.0
+WORK REFUSAL,Operators and crew,104,209.0,0.0
+"T&S OPERATOR RELATED PROBLEM (VIOLATIONS, OVERSHOOTS, ETC.)","Track, signals and infrastructure",89,197.0,0.0
+CONSEQUENTIAL DELAY (2ND DELAY SAME FAULT),Vehicles,22,191.0,5.5
+NO OPERATOR AVAILABLE - NON ESA RELATED,Operators and crew,50,190.0,4.0
+SIGNAL PROBLEM - NO TROUBLE FOUND,"Track, signals and infrastructure",89,187.0,0.0
+TWO DRUM SWITCH KEYS IN TRAIN,Operators and crew,52,181.0,3.0
+WARNING/ALARM SYSTEM/PASSENGER SECURITY SYSTEM,Vehicles,41,176.0,4.0
+WORK ZONE PROBLEMS - SIGNALS,"Track, signals and infrastructure",42,175.0,4.0
+ENGINEEERING & CONSTRUCTION RELATED,"Track, signals and infrastructure",4,173.0,23.5
+CENTRAL OFFICE SIGNALLING SYSTEM (CSS),"Track, signals and infrastructure",34,164.0,0.0
+"RC&S OPERATOR ERROR (SIGNAL VIOLATION, PLATFORM OVERSHOOT, ETC)",Vehicles,64,160.0,0.0
+COMPRESSED AIR,Vehicles,29,160.0,4.0
+INJURED EMPLOYEES,Medical and injuries,507,158.0,0.0
+TRUCKS,Vehicles,28,157.0,4.0
+DOOR PROBLEMS - FAULTY EQUIPMENT,Vehicles,24,152.0,4.0
+OPTO OPERATOR RELATED,One-person train operation (OPTO),33,142.0,4.0
+EXTERNAL POWER FAILURE,"Fire, weather and external",48,137.0,0.0
+NO EQUIPMENT AVAILABLE,Vehicles,28,134.0,4.0
+FIRE/SMOKE PLAN B - SOURCE EXTERNAL TO TTC,"Fire, weather and external",22,132.0,1.5
+WEATHER REPORTS / RELATED DELAYS,"Fire, weather and external",12,116.0,0.0
+TORONTO ROCKET CAB DOORS,Vehicles,19,115.0,5.0
+DISC BRAKES,Vehicles,4,111.0,10.0
+CONTROLS IMPROPERLY BLOWN DOWN,Operators and crew,26,96.0,3.0
+ELECTRICAL - WORK ZONE PROBLEMS,"Track, signals and infrastructure",7,93.0,5.0
+TRANSPORTATION DEPARTMENT - OTHER,Operators and crew,16,93.0,4.5
+ECD/LINE MECHANIC RELATED,Vehicles,15,90.0,5.0
+SCADA RELATED PROBLEMS,"Track, signals and infrastructure",11,88.0,0.0
+INJURED OR ILL CUSTOMER (ON TRAIN) - TRANSPORTED,Medical and injuries,22,82.0,0.0
+MAINLINE STORAGE,Operators and crew,23,79.0,4.0
+PROPULSION SYSTEM,Vehicles,13,77.0,5.0
+LOW VOLTAGE,Vehicles,14,76.0,4.5
+OPTO (RC&S) NON-TRAIN DOOR MONITORING,One-person train operation (OPTO),24,76.0,3.5
+ALTERNATING CURRENT,Vehicles,19,74.0,4.0
+AXLE COUNTER RELATED,"Track, signals and infrastructure",3,70.0,24.0
+SUSPICIOUS PACKAGE,Customers and security,16,68.0,3.5
+T&S CONTRACTOR PROBLEMS,"Track, signals and infrastructure",5,68.0,4.0
+TRACK CIRCUIT PROBLEMS RE:DEFECTIVE BOLTS/BONDING,"Track, signals and infrastructure",20,66.0,0.0
+FIRE SMOKE PLAN C,"Fire, weather and external",66,65.0,0.0
+SIGNALS-CONTROL PROBLEM-TRACK,"Track, signals and infrastructure",19,57.0,0.0
+WARNING ALARM SYSTEMS,Vehicles,4,49.0,11.0
+LIGHTING SYSTEMS,Vehicles,10,40.0,4.0
+TRACK BRAKES,Vehicles,3,40.0,9.0
+NO OPERATOR IMMEDIATELY AVAILABLE,Operators and crew,7,37.0,5.0
+TRACTION MOTORS,Vehicles,8,35.0,4.0
+ANY ESCL. OR ELEV. INCIDENT - TRANSPORTED OR MEDICAL AID DECLINED,Medical and injuries,2338,35.0,0.0
+FIRE/SMOKE PLAN B,"Fire, weather and external",2,34.0,17.0
+ELECTRICAL - MAINTENANCE ERROR,"Track, signals and infrastructure",8,28.0,4.5
+RC&S MAINTENANCE ERROR - (HUMAN),Vehicles,4,26.0,5.5
+SIGNALS OTHER,"Track, signals and infrastructure",3,23.0,7.0
+RAIL DEFECT/FASTENINGS/POWER RAIL,"Track, signals and infrastructure",1,22.0,22.0
+TRANSIT CONTROL RELATED PROBLEMS,Operators and crew,3,16.0,5.0
+UNMAPPED,Unmapped code,20,14.0,0.0
+OPERATOR NOT IN POSITION,Operators and crew,3,13.0,5.0
+UNAUTHORIZED TRAIN REVERSAL BY OPERATOR,Operators and crew,3,13.0,4.0
+NO OPERATOR/CREW AVAILABLE - E.S.A. RELATED,Operators and crew,4,12.0,3.0
+TRAIN CONTROLS IMPROPERLY SHUT DOWN,Operators and crew,1,8.0,8.0
+SMART IO FAILURE,"Track, signals and infrastructure",6,7.0,0.0
+INJURED EMPLOYEE,Medical and injuries,2,7.0,3.5
+RADIO,Vehicles,1,6.0,6.0
+SWITCH RELATED,"Track, signals and infrastructure",1,6.0,6.0
+PASSENGER ASSISTANCE ALARM ACTIVATED - NO TROUBLE FOUND,Customers and security,26,6.0,0.0
+ANY STAIRWAY INCIDENT - TRANSPORTED OR MEDICAL AID DECLINED,Medical and injuries,921,4.0,0.0
+FIRE/SMOKE PLAN C,"Fire, weather and external",2,4.0,2.0
+CLOSURES - PLANNED,Other,238,4.0,0.0
+STORM TRAINS,Operators and crew,48,4.0,0.0
+OTHER,"Track, signals and infrastructure",1,4.0,4.0
+INJURED OR ILL CUSTOMER (ON TRAIN) - MEDICAL AID REFUSED,Medical and injuries,7,3.0,0.0
+HIGH VOLTAGE,Vehicles,1,3.0,3.0
+NO COLLECTOR AVAILABLE - NON ESA RELATED,Operators and crew,2159,0.0,0.0
+OVERHEAD DOOR CONTACTED,Other,1,0.0,0.0
+COLLECTOR BOOTH HOLD-UP ALARM ACTIVATED,Customers and security,1,0.0,0.0
+CENTRAL LOGIC CONTROLLER FAILURE,"Track, signals and infrastructure",1,0.0,0.0
+MISCELLANEOUS GENERAL SUBWAY LINE DELAYS -,Other,89,0.0,0.0
+NO COLLECTOR AVAILABLE,Operators and crew,1173,0.0,0.0
+DATA COMMUNICATIONS SYSTEM FAILURE,"Track, signals and infrastructure",1,0.0,0.0
+STATION STAIRWAY INCIDENT,Medical and injuries,2,0.0,0.0
+ESCALATOR/ELEVATOR INCIDENT,"Track, signals and infrastructure",19,0.0,0.0
+T&S RELATED PROBLEM - NO TROUBLE FOUND,"Track, signals and infrastructure",1,0.0,0.0

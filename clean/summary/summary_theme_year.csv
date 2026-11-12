@@ -1,0 +1,28 @@
+theme,year,incidents,total_delay_min
+Customers and security,2023,10173,35586.0
+"Track, signals and infrastructure",2023,1087,7337.0
+Medical and injuries,2023,6055,6532.0
+Vehicles,2023,1063,6076.0
+Operators and crew,2023,1946,5208.0
+One-person train operation (OPTO),2023,999,3507.0
+"Fire, weather and external",2023,131,2258.0
+Other,2023,1479,1642.0
+Unmapped code,2023,10,0.0
+Customers and security,2024,10733,34716.0
+Medical and injuries,2024,6773,9067.0
+"Track, signals and infrastructure",2024,1517,9031.0
+Operators and crew,2024,2834,5691.0
+Vehicles,2024,1114,5666.0
+One-person train operation (OPTO),2024,1495,5191.0
+"Fire, weather and external",2024,146,3073.0
+Other,2024,1837,1831.0
+Unmapped code,2024,1,0.0
+Customers and security,2025,8738,26993.0
+"Track, signals and infrastructure",2025,1763,12801.0
+Medical and injuries,2025,6019,8985.0
+Operators and crew,2025,4021,6855.0
+Vehicles,2025,1454,5546.0
+"Fire, weather and external",2025,334,4426.0
+One-person train operation (OPTO),2025,1265,3436.0
+Other,2025,2077,1699.0
+Unmapped code,2025,9,14.0
