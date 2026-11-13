@@ -52,6 +52,7 @@ duckdb ttc.duckdb
 | `sql/01_shape.sql`, `02_causes.sql` | First looks at the data and delay causes |
 | `sql/03_themes.sql` | Groups delay codes into themes |
 | `sql/04_theme_analysis.sql` | Theme-level analysis |
+| `sql/05_export.sql` | Export summarized csv files |
 | `clean/` | Cleaned data, theme review list, dashboard summary files |
 | `raw/theme_overrides.csv` | My theme decisions, applied on top of the automatic rules |
 | `dashboard/` | Dashboard screenshot |
