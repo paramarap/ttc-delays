@@ -2,8 +2,8 @@
 
 An analysis of about 75,000 TTC subway delay records, built with SQL (DuckDB) and a Tableau dashboard.
 
-- Write-up: [Substack link]
-- Dashboard: [Tableau Public link]
+- Write-up: [Substack](https://lnkd.in/g6EbKjMW)
+- Dashboard: [Tableau Public](https://lnkd.in/gEW2XAzP)
 
 ## Question
 
